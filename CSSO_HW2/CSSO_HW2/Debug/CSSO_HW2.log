@@ -1,0 +1,3 @@
+﻿  writeProcesses.cpp
+e:\fii\csso\csso_hw2\csso_hw2\writeprocesses.cpp(104): warning C4101: 'pBuf': unreferenced local variable
+  CSSO_HW2.vcxproj -> E:\FII\CSSO\CSSO_HW2\Debug\CSSO_HW2.exe
