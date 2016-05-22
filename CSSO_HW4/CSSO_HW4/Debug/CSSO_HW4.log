@@ -1,0 +1,12 @@
+﻿  hw4.cpp
+e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(31): warning C4474: 'printf' : too many arguments passed for format string
+  e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(31): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(37): warning C4474: 'printf' : too many arguments passed for format string
+  e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(37): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(43): warning C4474: 'printf' : too many arguments passed for format string
+  e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(43): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(49): warning C4474: 'printf' : too many arguments passed for format string
+  e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(49): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(55): warning C4474: 'printf' : too many arguments passed for format string
+  e:\fii\csso\csso_hw4\csso_hw4\hw4.cpp(55): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  CSSO_HW4.vcxproj -> E:\FII\CSSO\CSSO_HW4\Debug\CSSO_HW4.exe
